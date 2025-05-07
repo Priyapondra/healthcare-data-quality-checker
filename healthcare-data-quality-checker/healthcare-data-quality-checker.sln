@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "healthcare-data-quality-checker", "healthcare-data-quality-checker\healthcare-data-quality-checker.pyproj", "{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE770A57-FB66-4C59-80A5-3D11BBB05034}
+	EndGlobalSection
+EndGlobal

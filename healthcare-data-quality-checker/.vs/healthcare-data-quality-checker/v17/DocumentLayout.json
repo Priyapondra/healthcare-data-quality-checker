@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Graphs.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\Graphs.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\quality_report.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\quality_report.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\clean_data.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\clean_data.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\mock_api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\mock_api.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Dduplicate.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\Scripts\\Dduplicate.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\healthcare_data_quality_checker.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F924DB9-7BFD-4B54-855F-AFE6ABE1EF3A}|healthcare-data-quality-checker\\healthcare-data-quality-checker.pyproj|solutionrelative:healthcare-data-quality-checker\\healthcare_data_quality_checker.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graphs.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Graphs.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\Graphs.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Graphs.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\Graphs.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-07T14:44:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quality_report.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\quality_report.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\quality_report.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\quality_report.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\quality_report.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-07T14:33:39.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mock_api.json",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\mock_api.json",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\mock_api.json",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\mock_api.json",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\mock_api.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T14:25:42.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enrich_with_webdata.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\enrich_with_webdata.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-07T14:20:48.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dduplicate.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Dduplicate.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\Dduplicate.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\Dduplicate.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\Dduplicate.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-07T13:56:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clean_data.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\clean_data.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\Scripts\\clean_data.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\Scripts\\clean_data.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\Scripts\\clean_data.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-06T16:55:25.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "healthcare_data_quality_checker.py",
+              "DocumentMoniker": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\healthcare_data_quality_checker.py",
+              "RelativeDocumentMoniker": "healthcare-data-quality-checker\\healthcare_data_quality_checker.py",
+              "ToolTip": "C:\\Users\\keert\\source\\repos\\healthcare-data-quality-checker\\healthcare-data-quality-checker\\healthcare_data_quality_checker.py",
+              "RelativeToolTip": "healthcare-data-quality-checker\\healthcare_data_quality_checker.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-06T16:53:42.42Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
